@@ -1,6 +1,8 @@
 # Rust Aim
 Undetected Rust Cheats ⚡ Enjoy Quality Rust Hacks from Cosmo Cheats ⚡ Silent Aimbot, God Mode, ESP, Speedhack, Wallhacks, And More... 
 
+[![637568](https://github.com/user-attachments/assets/35ef3d8a-63e1-49eb-aa41-7ad82fe2f8e1)](https://y.gy/rus-aimbotz)
+
 
 Think of the Rust Aimbot as the decisive advantage your arsenal has lacked. Now's your chance to acquire it.
 
